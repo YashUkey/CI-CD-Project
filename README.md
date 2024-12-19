@@ -28,9 +28,13 @@ Kubernetes Deployment Automation:
 DevOps Tools Utilized:
 
 Source Control: Git, GitHub
+
 CI/CD: Jenkins
+
 Containerization: Docker, DockerHub
+
 Orchestration: Kubernetes
+
 Scripting: Shell scripting for deployment automation
 
 Impact:
